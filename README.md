@@ -20,7 +20,7 @@ A ⊕ B ⊕ B = A
 Pastikan sudah terinstal Python 3
 1. Lakukan clone repository
    '''bash
-   git clone [https://github.com/Novasyaaulia09/Tugas-Kriptografi-RC4.git](https://github.com/Novasyaaulia09/Tugas-Kriptografi-RC4.git)
+   git clone https://github.com/Novasyaaulia09/Tugas-Kriptografi-RC4.git](https://github.com/Novasyaaulia09/Tugas-Kriptografi-RC4.git
    '''
 3. Arahkan direkotori ke dalam folder repository
    cd Tugas-Kriptografi-RC4
