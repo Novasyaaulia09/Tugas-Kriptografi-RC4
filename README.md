@@ -19,9 +19,11 @@ A ⊕ B ⊕ B = A
 # Cara menjalankan program
 Pastikan sudah terinstal Python 3
 1. Lakukan clone repository
+   '''bash
    git clone [https://github.com/Novasyaaulia09/Tugas-Kriptografi-RC4.git](https://github.com/Novasyaaulia09/Tugas-Kriptografi-RC4.git)
-2. Arahkan direkotori ke dalam folder repository
+   '''
+3. Arahkan direkotori ke dalam folder repository
    cd Tugas-Kriptografi-RC4
-3. Jalankan file program dengan perintah berikut
+4. Jalankan file program dengan perintah berikut
    python algoritma_rc4.py
-4. Program akan berjalan
+5. Program akan berjalan
