@@ -25,3 +25,24 @@ Pastikan sudah terinstal Python 3
 4. Jalankan file program dengan perintah berikut
    python algoritma_rc4.py
 5. Program akan berjalan
+
+# Cara Menjalankan Program
+
+Pastikan sudah terinstal Python 3
+
+## 1. Clone Repository
+```
+git clone https://github.com/Novasyaaulia09/Tugas-Kriptografi-RC4.git
+```
+
+## 2. Masuk ke Folder Repository
+```
+cd Tugas-Kriptografi-RC4
+```
+
+## 3. Jalankan Program
+```
+python algoritma_rc4.py
+```
+
+Program akan berjalan.
