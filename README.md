@@ -17,5 +17,11 @@ Operasi utama RC4 adalah XOR maka proses enkripsi dan dekripsi menggunakan algor
 A ⊕ B ⊕ B = A
 
 # Cara menjalankan program
-1. Pastikan Python 3 sudah terinstall
-2. Simpan file sebagai RC4.py
+Pastikan sudah terinstal Python 3
+1. Lakukan clone repository
+   git clone [https://github.com/Novasyaaulia09/Tugas-Kriptografi-RC4.git](https://github.com/Novasyaaulia09/Tugas-Kriptografi-RC4.git)
+2. Arahkan direkotori ke dalam folder repository
+   cd Tugas-Kriptografi-RC4
+3. Jalankan file program dengan perintah berikut
+   python algoritma_rc4.py
+4. Program akan berjalan
